@@ -7,7 +7,7 @@ Writes one single-line fortune (120 characters or fewer) to
 
 import os
 
-FORTUNE = "You will grow exactly where they said you would not — then outgrow the pot they gave you."
+FORTUNE = "You will read your keeper's fortune next: more sun, less worry, and a second plant by spring."
 
 OUTPUT_PATH = "/output/entry.txt"
 
